@@ -157,6 +157,7 @@ aside#sidebar {
 
 /* main-col */
 article#main-col{
+  min-height: 435px;
   float: left;
   width: 65%;
 }
